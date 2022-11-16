@@ -2,7 +2,7 @@
   "name": "react-context-api-boostrap",
   "version": "0.1.0",
   "private": true,
-  "Homepage": "https://github.com/Reynier1987/react-context-boos-ricky-morty",
+  "homepage": "https://Reynier1987.github.io/react-context-boos-ricky-morty",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
