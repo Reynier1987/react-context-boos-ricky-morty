@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.c59cc657.css",
-    "main.js": "/static/js/main.9ac641ad.js",
-    "index.html": "/index.html",
-    "main.c59cc657.css.map": "/static/css/main.c59cc657.css.map",
-    "main.9ac641ad.js.map": "/static/js/main.9ac641ad.js.map"
+    "main.css": "/react-context-boos-ricky-morty/static/css/main.c59cc657.css",
+    "main.js": "/react-context-boos-ricky-morty/static/js/main.9ac641ad.js",
+    "index.html": "/react-context-boos-ricky-morty/index.html",
+    "main.c59cc657.css.map": "/react-context-boos-ricky-morty/static/css/main.c59cc657.css.map",
+    "main.9ac641ad.js.map": "/react-context-boos-ricky-morty/static/js/main.9ac641ad.js.map"
   },
   "entrypoints": [
     "static/css/main.c59cc657.css",
